@@ -17,7 +17,7 @@
     "destroy:prod": "nx run-many -t destroy:prod -p shell react-app vue-app angular-app shared-ui util-module --maxParallel=10"
   },
   "keywords": [],
-  "author": "Accolite",
+  "author": "jacobusa",
   "license": "MIT",
   "devDependencies": {
     "nx": "18.0.4",
